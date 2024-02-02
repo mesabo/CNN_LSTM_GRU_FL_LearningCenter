@@ -1,0 +1,6 @@
+data/
+!data/*.md
+!data/electric_power_consumption/*.md
+!data/electric_power_consumption/*.zip
+data/electric_power_consumption/*.txt
+data/electric_power_consumption/*.csv
