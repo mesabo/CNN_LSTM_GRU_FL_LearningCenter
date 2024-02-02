@@ -4,3 +4,4 @@ data/
 !data/electric_power_consumption/*.zip
 data/electric_power_consumption/*.txt
 data/electric_power_consumption/*.csv
+.idea
